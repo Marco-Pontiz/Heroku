@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Marco-Pontiz/Heroku/issues"
   },
-  "homepage": "https://github.com/Marco-Pontiz/Heroku#readme"
+  "homepage": "https://github.com/Marco-Pontiz/Heroku#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
